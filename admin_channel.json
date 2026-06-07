@@ -1,0 +1,24 @@
+{
+  "pending": [],
+  "history": [],
+  "nodes": {
+    "VM_A": {
+      "vm_id": "VM_A",
+      "last_seen": "2026-06-07T01:30:13.703347",
+      "tick": 250,
+      "population": 27,
+      "knights": 0,
+      "under_attack": false,
+      "lockdown": false
+    },
+    "VM_B": {
+      "vm_id": "VM_B",
+      "last_seen": "2026-04-16T06:00:15.816689",
+      "tick": 11,
+      "population": 22,
+      "knights": 0,
+      "under_attack": false,
+      "lockdown": false
+    }
+  }
+}
